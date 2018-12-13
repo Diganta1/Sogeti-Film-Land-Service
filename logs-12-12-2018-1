@@ -1,0 +1,52 @@
+12-12-2018 22:30:00.081 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:31:00.218 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:32:00.018 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:33:00.015 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:34:00.046 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:34:07.258 INFO  FILMLAND_LOG [http-nio-7092-exec-1] fetchUserDetails : Services: com.sogeti.filmLand.dao.ServiceDetails@24949842 Successfully fetched all Services
+12-12-2018 22:34:11.884 ERROR FILMLAND_LOG [http-nio-7092-exec-2] fetchUserDetails : Services: Unauthorized to access service Not Authorized 
+12-12-2018 22:34:35.558 INFO  FILMLAND_LOG [http-nio-7092-exec-6] fetchUserDetails : Services: com.sogeti.filmLand.dao.ServiceDetails@72ec63ee Successfully fetched all Services
+12-12-2018 22:35:00.010 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:35:17.940 ERROR FILMLAND_LOG [http-nio-7092-exec-7] saveUser : Specific Email ID: Diganta.mohapatra@gmail.com Exists
+12-12-2018 22:35:55.909 INFO  FILMLAND_LOG [http-nio-7092-exec-5] saveUser : User Email ID: Diganta.mohapatra2@gmail.com  Successfully registered in the database
+12-12-2018 22:36:00.008 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:36:16.494 INFO  FILMLAND_LOG [http-nio-7092-exec-8] validateUser : User: Diganta.mohapatra@gmail.com Successfully logged in
+12-12-2018 22:37:00.015 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:37:03.710 INFO  FILMLAND_LOG [http-nio-7092-exec-9] validateUser : User: Diganta.mohapatra@gmail.com Successfully logged in
+12-12-2018 22:37:28.371 ERROR FILMLAND_LOG [http-nio-7092-exec-10] subscribe : Services: Unauthorized to access service Not Authorized 
+12-12-2018 22:38:00.016 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:38:13.112 INFO  FILMLAND_LOG [http-nio-7092-exec-1] subscribe : Services: Diganta Successfully subscribed services 
+12-12-2018 22:39:00.013 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:39:49.234 ERROR FILMLAND_LOG [http-nio-7092-exec-7] ShareSubscription : Services: Unauthorized to access service Not Authorized 
+12-12-2018 22:40:00.047 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:40:07.771 WARN  FILMLAND_LOG [http-nio-7092-exec-4] ShareSubscription : Services: {} Requested Subscrition is not available with the existing subscriber
+12-12-2018 22:40:38.094 INFO  FILMLAND_LOG [http-nio-7092-exec-9] ShareSubscription : Services: Sumitabha Successfully shared the services 
+12-12-2018 22:41:00.015 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:42:00.014 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:44:00.041 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:45:00.189 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:46:00.017 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:47:00.008 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:48:00.021 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:49:00.018 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:50:00.024 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:51:00.021 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:52:00.016 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:53:00.013 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 22:54:00.021 WARN  FILMLAND_LOG [scheduling-1] lambda$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:42:00.192 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:43:00.013 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:44:00.020 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:45:00.009 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:46:00.012 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:47:00.011 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:48:00.007 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:49:00.016 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:50:00.011 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:51:00.011 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:52:00.012 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:53:00.016 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:54:00.008 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:55:00.007 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:56:00.006 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
+12-12-2018 23:57:00.016 WARN  FILMLAND_LOG [scheduling-1] lambda$trackOverduePayments$0 : OverDueNotification: Mail has been sent Subscriber Sumitabha for over due payment 
